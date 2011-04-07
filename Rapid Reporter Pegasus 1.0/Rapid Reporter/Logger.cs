@@ -2,7 +2,6 @@
 //  Logger - logs details in the 'log.log' file.
 ///-------
 ///
-//testiiiii
 
 // References and Dependencies
 using System;
