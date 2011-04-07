@@ -1,0 +1,30 @@
+Private Sub Text1_Change()
+Me.Text2 = 255 - Len(Me.Text1.Text)
+End Sub
+
+
+Varje tag som postas upp får sin egna counter
+charter/tester/type(1)"note" + tag(längden varierar beroende på vilken tag det är)
+
+SMWidget.xaml.cs
+private void NoteContent_KeyUp
+
+----------------------------------------------------------------------------------
+public static int CountChar ( string input, char c )
+{
+int retval = 0;
+for (int i = 0; i < input.Length; i ++)
+if (c == input [i])
+retval ++;
+return retval;
+}
+----------------------------------------------------------------------------------
+int twittermessageLimit = 114;
+
+int NumberofChar = NoteContent.CaretIndex;
+
+int CountDownNofChar = twittermessageLimit - NumberofChar;
+
+<TextBox Grid.Column="1" Name="charCounter" FontSize="9" ToolTip="Character Counter" Background="Transparent" IsTabStop="False" TextAlignment="Left" Width="25" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="5" VerticalContentAlignment="Center" FontWeight="Bold" FontFamily="Arial" AllowDrop="False" Focusable="False" IsReadOnly="False" BorderThickness="0" IsUndoEnabled="False" MaxLines="1"></TextBox>
+
+charCounter.Text = CountDownNofChar.ToString();

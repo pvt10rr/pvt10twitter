@@ -1,0 +1,42 @@
+class Program
+    {
+        private static OAuthTokens tokens;
+        private static string ScreenName;
+        private static decimal UserID;
+
+        static void Main(string[] args)
+        {
+            string requestToken = OAuthUtility.GetRequestToken("WxOSthlIyUDQzWiGzY7F5Q", "TD3TbCa9BshneTMJTgdTmm57wzfQrQdXa8Ex2Sd7BkM", "oob").Token;
+
+            Process browserProcess = new Process(); 
+            browserProcess.StartInfo.FileName = OAuthUtility.BuildAuthorizationUri(requestToken).AbsoluteUri;
+            if (browserProcess.Start())
+            {
+                browserProcess.WaitForExit();
+            }
+            else
+            {
+                Console.WriteLine("Could not start your browser.");
+            }
+
+            Console.WriteLine("After you have granted the application access, you will be given a 7 digit pin code. Please enter it here:");
+            string pin = Console.ReadLine();
+
+            if (pin.Length != 7)
+            {
+                Console.WriteLine("Invalid pin. Try again later.");
+                return;
+            }
+
+            OAuthTokenResponse accessToken = OAuthUtility.GetAccessToken("WxOSthlIyUDQzWiGzY7F5Q", "TD3TbCa9BshneTMJTgdTmm57wzfQrQdXa8Ex2Sd7BkM", requestToken, pin);
+
+            tokens = new OAuthTokens();
+            tokens.AccessToken = accessToken.Token;
+            tokens.AccessTokenSecret = accessToken.TokenSecret;
+            tokens.ConsumerKey = "WxOSthlIyUDQzWiGzY7F5Q";
+            tokens.ConsumerSecret = "TD3TbCa9BshneTMJTgdTmm57wzfQrQdXa8Ex2Sd7BkM";
+            ScreenName = accessToken.ScreenName;
+            UserID = accessToken.UserId;
+
+        }
+    }

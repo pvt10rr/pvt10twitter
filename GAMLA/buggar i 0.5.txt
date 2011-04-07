@@ -1,0 +1,18 @@
+on off
+
+inne i smwidget början
+
+if (authkey w/e != null)
+{
+får man sätta på den igen
+
+----------------------------
+
+skriver fel till twitter:
+
+[Reporter: 6631204, Charter: Christer]
+
+-------------------------------------------
+skriver fel till rapport:
+
+2011-04-05 15:16:22,6631204,6631204,Twitter Account,"6631204",,

@@ -1,0 +1,46 @@
+            OAuthTokens tokens = new OAuthTokens();
+            tokens.AccessToken = "274405831-rJNqg7XEFIvetxBoQxxqMl61czFaHkcdz3Y7Uw4f";
+            tokens.AccessTokenSecret = "i0sgjj7icqswS5IKOOzkbAChZ884KDhoc97UA";
+            tokens.ConsumerKey = "WxOSthlIyUDQzWiGzY7F5Q";
+            tokens.ConsumerSecret = "TD3TbCa9BshneTMJTgdTmm57wzfQrQdXa8Ex2Sd7BkM";
+ 
+            TwitterResponse<TwitterStatus> tweetResponse = TwitterStatus.Update(tokens, "Hello, #Twitterizer");
+                if (tweetResponse.Result == RequestResult.Success)
+                    {
+                        Console.WriteLine("Tweet posted successfully!");
+                        Console.ReadLine();
+                    }
+                else
+                    {
+                        Console.WriteLine("FAIL");
+                        Console.ReadLine();
+                    }
+
+
+---------------------------------------------------------------------------------------------------------------
+
+
+OAuthTokens tokens = new OAuthTokens();
+            tokens.AccessToken = "274405831-rJNqg7XEFIvetxBoQxxqMl61czFaHkcdz3Y7Uw4f";
+            tokens.AccessTokenSecret = "i0sgjj7icqswS5IKOOzkbAChZ884KDhoc97UA";
+            tokens.ConsumerKey = "WxOSthlIyUDQzWiGzY7F5Q";
+            tokens.ConsumerSecret = "TD3TbCa9BshneTMJTgdTmm57wzfQrQdXa8Ex2Sd7BkM";
+
+         
+
+            if (type == 1)
+            {
+                string twittermsg = null;
+
+                if (note.Length > 140)
+                {
+                    twittermsg = note.Substring(0, 140);
+                }
+                else
+                {
+                    twittermsg = note;
+                }
+
+                TwitterResponse<TwitterStatus> tweetResponse = TwitterStatus.Update(tokens, twittermsg);
+
+	
