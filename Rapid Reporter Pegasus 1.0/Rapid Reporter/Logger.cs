@@ -1,6 +1,8 @@
 ﻿// This application lets the tester be the master of the session.
 //  Logger - logs details in the 'log.log' file.
 ///-------
+///
+//testiiiii
 
 // References and Dependencies
 using System;
