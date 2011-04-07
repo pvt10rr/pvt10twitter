@@ -1,4 +1,6 @@
-﻿// This application lets the tester be the master of the session.
+﻿// test av git commit & push
+
+// This application lets the tester be the master of the session.
 //  Logger - logs details in the 'log.log' file.
 ///-------
 
