@@ -73,9 +73,6 @@ namespace Rapid_Reporter
             return hashCode;
         }
 
-        public static void PostOnTwitter()
-        {
 
-        }
     }
 }

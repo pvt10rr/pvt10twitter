@@ -37,8 +37,8 @@ namespace Rapid_Reporter
         public static int NumberOfChar;
         public static int CountDownNrOfChar;
 
-        /** Twitter Menu Item **/
-        /***********************/
+        /** Twitter Button **/
+        /********************/
 
         private void Twitter_Click(object sender, RoutedEventArgs e)
         {
@@ -57,9 +57,7 @@ namespace Rapid_Reporter
                     Twitter.ToolTip = "Twitter Posting Enabled";
                 }
              }
-
         }
-
 
         // Session Notes variables
         private int currentNoteType = 0;        // The actual types are controlled by the Session class.
@@ -208,13 +206,16 @@ namespace Rapid_Reporter
                 }
                 else
                 {
-                    hardcodedText = "[Reporter: , Charter: ]  # #";
-                    preLength = currentSession.tester.Length + currentSession.charter.Length + currentSession.noteTypes[currentNoteType].Length + TwitterAddon.hashCode.Length;
-                    twitterMessageLimit = 140 - preLength - hardcodedText.Length;
+                    if (twitter)
+                    {
+                        hardcodedText = "[Reporter: , Charter: ]  # #";
+                        preLength = currentSession.tester.Length + currentSession.charter.Length + currentSession.noteTypes[currentNoteType].Length + TwitterAddon.hashCode.Length;
+                        twitterMessageLimit = 140 - preLength - hardcodedText.Length;
 
-                    NumberOfChar = NoteContent.CaretIndex;
-                    CountDownNrOfChar = twitterMessageLimit - NumberOfChar;
-                    charCounter.Text = CountDownNrOfChar.ToString();
+                        NumberOfChar = NoteContent.CaretIndex;
+                        CountDownNrOfChar = twitterMessageLimit - NumberOfChar;
+                        charCounter.Text = CountDownNrOfChar.ToString();
+                    }
                 }
             }
             
@@ -260,18 +261,21 @@ namespace Rapid_Reporter
                 nextType.Text = "↑ " + currentSession.noteTypes[nextNoteType] + ":";
 
                 // Counter/Truncer
-                preLength = currentSession.tester.Length + currentSession.charter.Length + currentSession.noteTypes[currentNoteType].Length + TwitterAddon.hashCode.Length;
-                twitterMessageLimit = 140 - preLength - hardcodedText.Length;
-                NumberOfChar = NoteContent.CaretIndex;
-                CountDownNrOfChar = twitterMessageLimit - NumberOfChar;
-                charCounter.Text = CountDownNrOfChar.ToString();
+                if (twitter)
+                {
+                    preLength = currentSession.tester.Length + currentSession.charter.Length + currentSession.noteTypes[currentNoteType].Length + TwitterAddon.hashCode.Length;
+                    twitterMessageLimit = 140 - preLength - hardcodedText.Length;
+                    NumberOfChar = NoteContent.CaretIndex;
+                    CountDownNrOfChar = twitterMessageLimit - NumberOfChar;
+                    charCounter.Text = CountDownNrOfChar.ToString();
+                }
             }
 
             // 2)
             // Enter keys accept the note into the report
             else if (e.Key == Key.Enter)
             {
-                if (e.Key == Key.Enter && NoteContent.Text.Trim().Length == 0)
+                if (e.Key == Key.Enter && currentStage == sessionStartingStage.twitterAccount && NoteContent.Text.Trim().Length == 0)
                 {
                     twitter = false;
                     TwitterIcon.Source = new BitmapImage(new Uri("icontwit_dis.png", UriKind.Relative));

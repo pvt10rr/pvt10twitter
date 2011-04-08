@@ -70,7 +70,10 @@ namespace Rapid_Reporter
 
             UpdateNotes("Session Reporter", tester);
             UpdateNotes("Session Charter", charter);
-            UpdateNotes("Twitter Link", "https://twitter.com/#!/search?q=%23" + TwitterAddon.hashCode);
+            if (SMWidget.twitter) // Post Twitter Link if Twitter is enabled
+            {
+                UpdateNotes("Twitter Link", "https://twitter.com/#!/search?q=%23" + TwitterAddon.hashCode);
+            }
         }
 
         public void CloseSession() // Not closing directly, we first finalize the session
