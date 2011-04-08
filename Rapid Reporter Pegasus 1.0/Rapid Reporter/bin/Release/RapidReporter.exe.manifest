@@ -70,14 +70,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RapidReporter.exe" size="97280">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RapidReporter.exe" size="97792">
       <assemblyIdentity name="RapidReporter" version="1.11.3.20" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>slABZldd3X9Uz8BfQ4YbGOkixtY=</dsig:DigestValue>
+        <dsig:DigestValue>02XXmPtA3uhSlR1sZnmfh4QDsU0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

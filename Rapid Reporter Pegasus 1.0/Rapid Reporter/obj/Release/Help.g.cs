@@ -131,4 +131,3 @@ namespace Rapid_Reporter {
         }
     }
 }
-
