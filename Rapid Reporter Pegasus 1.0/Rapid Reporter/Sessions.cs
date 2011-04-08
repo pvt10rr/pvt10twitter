@@ -181,18 +181,20 @@ namespace Rapid_Reporter
             }
 
         }
+
         public void UpdateNotes(string type, string note, string screenshot = "", string RTFNote = "")
         {
-            sessionNote = DateTime.Now + "," + twitterAccount + "," + tester + "," + type + ",\"" + note + "\"," + screenshot + "," + RTFNote + "\n";
+            sessionNote = DateTime.Now + "," + tester + "," + type + ",\"" + note + "\"," + screenshot + "," + RTFNote + "\n";
+
             SaveToSessionNotes(sessionNote);
 
             Logger.record("[UpdateNotes ss]: Note added to session log (" + screenshot + ", " + RTFNote + ")", "Session", "info");
         }
+
         // Save all notes on file, after every single note
         private void SaveToSessionNotes(string note)
         {
             Logger.record("[SaveToSessionNotes]: File will be updated and saved to " + sessionFile, "Session", "info");
-
 
             bool exDrRetry = false;
 
@@ -200,7 +202,7 @@ namespace Rapid_Reporter
             { exDrRetry = false;
                 try
                 {
-                    File.AppendAllText(sessionFileFull, note);
+                    File.AppendAllText(sessionFileFull, note, Encoding.GetEncoding("windows-1252"));
                 }
                 catch (Exception ex)
                 {
@@ -234,7 +236,7 @@ namespace Rapid_Reporter
             { exDrRetry = false;
                 try
                 {
-                    File.AppendAllText(reportFileFull, columnHeaders + "\n"); Thread.Sleep(150);
+                    File.AppendAllText(reportFileFull, columnHeaders + "\n", Encoding.GetEncoding("windows-1252")); Thread.Sleep(150);
                     foreach (string file in files)
                     {
                         // Skip over other report files
@@ -242,11 +244,11 @@ namespace Rapid_Reporter
                         // Skip over files that don't end like ########_######.csv.
                         if (!( System.Text.RegularExpressions.Regex.IsMatch(file, ".*\\d{8}_\\d{6}.csv$", System.Text.RegularExpressions.RegexOptions.IgnoreCase))) continue;
 
-                        StreamReader sr = new StreamReader(file);
+                        StreamReader sr = new StreamReader(file, Encoding.GetEncoding("windows-1252"));
                         sr.ReadLine(); // We skip the first line (with the headers);
 
                         string oneFile = sr.ReadToEnd();
-                        File.AppendAllText(reportFileFull, oneFile); Thread.Sleep(150);
+                        File.AppendAllText(reportFileFull, oneFile, Encoding.GetEncoding("windows-1252")); Thread.Sleep(150);
 
                         Logger.record("\t[CollectReport]: Another file concatenated into a report: " + file, "Session", "info");
                         // TODO: Remove the Thread.Sleep(150) parts?
