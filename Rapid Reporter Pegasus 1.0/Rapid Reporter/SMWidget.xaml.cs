@@ -30,6 +30,13 @@ namespace Rapid_Reporter
         // Post to Twitter enabled (true) or disabled (false)
         public static bool twitter = true;
 
+        // Counter/Truncer variables
+        public static string hardcodedText;
+        public static int preLength;
+        public static int twitterMessageLimit;
+        public static int NumberOfChar;
+        public static int CountDownNrOfChar;
+
         /** Twitter Menu Item **/
         /***********************/
 
@@ -192,14 +199,23 @@ namespace Rapid_Reporter
         {
             int notesLenght = currentSession.noteTypes.Length - 1;
 
+            // Counter/Truncer
             if (currentStage == sessionStartingStage.notes)
             {
-                int preLength = currentSession.tester.Length + currentSession.charter.Length + currentSession.noteTypes[currentNoteType].Length + Session.hashCode.Length;
-                int twitterMessageLimit = 113 - preLength;
+                if (e.Key == Key.Left || e.Key == Key.Right)
+                {
+                    // ignore if pressing left or right key
+                }
+                else
+                {
+                    hardcodedText = "[Reporter: , Charter: ]  # #";
+                    preLength = currentSession.tester.Length + currentSession.charter.Length + currentSession.noteTypes[currentNoteType].Length + Session.hashCode.Length;
+                    twitterMessageLimit = 140 - preLength - hardcodedText.Length;
 
-                int NumberOfChar = NoteContent.CaretIndex;
-                int CountDownNrOfChar = twitterMessageLimit - NumberOfChar;
-                charCounter.Text = CountDownNrOfChar.ToString();
+                    NumberOfChar = NoteContent.CaretIndex;
+                    CountDownNrOfChar = twitterMessageLimit - NumberOfChar;
+                    charCounter.Text = CountDownNrOfChar.ToString();
+                }
             }
             
             // 1) Up/Down
@@ -215,6 +231,7 @@ namespace Rapid_Reporter
                 if (e.Key == Key.Up)
                 {
                     prevNoteType = currentNoteType;
+
                     if (currentNoteType > 0)
                     { currentNoteType--; }
                     else
@@ -227,6 +244,7 @@ namespace Rapid_Reporter
                 else if (e.Key == Key.Down)
                 {
                     nextNoteType = currentNoteType;
+
                     if (currentNoteType < notesLenght)
                     { currentNoteType++; }
                     else
@@ -240,6 +258,13 @@ namespace Rapid_Reporter
                 NoteType.Text = currentSession.noteTypes[currentNoteType] + ":";
                 prevType.Text = "↓ " + currentSession.noteTypes[prevNoteType] + ":";
                 nextType.Text = "↑ " + currentSession.noteTypes[nextNoteType] + ":";
+
+                // Counter/Truncer
+                preLength = currentSession.tester.Length + currentSession.charter.Length + currentSession.noteTypes[currentNoteType].Length + Session.hashCode.Length;
+                twitterMessageLimit = 140 - preLength - hardcodedText.Length;
+                NumberOfChar = NoteContent.CaretIndex;
+                CountDownNrOfChar = twitterMessageLimit - NumberOfChar;
+                charCounter.Text = CountDownNrOfChar.ToString();
             }
 
             // 2)

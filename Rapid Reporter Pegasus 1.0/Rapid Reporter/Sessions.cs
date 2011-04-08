@@ -14,7 +14,7 @@ using System.Text;
 
 namespace Rapid_Reporter
 {
-    class Session
+    public class Session // changed to 'public'
     {
 
         /** Variables **/
@@ -168,7 +168,7 @@ namespace Rapid_Reporter
                     twitterNumberOfCharsToRemove = twitterPost.Length-140; // how many characters to remove
                     twitterNoteLength = note.Length - twitterNumberOfCharsToRemove; // on which character to start removing
                     twitterNote = note.Substring(0, twitterNoteLength);
-                    twitterPost = "[Reporter: " + tester + ", Charter: " + charter + "] " + twitterNote + " #" + noteTypes[type];
+                    twitterPost = "[Reporter: " + tester + ", Charter: " + charter + "] " + twitterNote + " #" + noteTypes[type] + " #" + hashCode;
                 }
 
                 /*OAuthTokens tokens = new OAuthTokens();
