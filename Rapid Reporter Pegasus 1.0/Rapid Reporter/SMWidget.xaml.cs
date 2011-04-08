@@ -278,6 +278,7 @@ namespace Rapid_Reporter
                     Twitter.ToolTip = "Twitter Posting Disabled";
                     Twitter.IsChecked = false;
                     StateMove(sessionStartingStage.tester);
+                    currentTwitterAccount.Text = "  Twitter Posting Disabled";
                 }
                 // Ignore empty inputs
                 if (e.Key == Key.Enter && NoteContent.Text.Trim().Length != 0)
