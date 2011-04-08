@@ -277,6 +277,7 @@ namespace Rapid_Reporter
                     TwitterIcon.Source = new BitmapImage(new Uri("icontwit_dis.png", UriKind.Relative));
                     Twitter.ToolTip = "Twitter Posting Disabled";
                     Twitter.IsChecked = false;
+                    Twitter.IsEnabled = false;
                     StateMove(sessionStartingStage.tester);
                     currentTwitterAccount.Text = "  Twitter Posting Disabled";
                 }
