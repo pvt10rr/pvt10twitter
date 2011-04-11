@@ -62,15 +62,20 @@ namespace Rapid_Reporter
 
             UpdateNotes("(Rapid Reporter version)", System.Windows.Forms.Application.ProductVersion);
 
+            // Writing Hash Code to log file
             UpdateNotes("Hash Code", TwitterAddon.hashCode);
-            if (TwitterAddon.ScreenName != null) // Writing the twitter account name to .csv file if using twitter posting
+
+            // Writing the Twitter account name to log file if using twitter posting
+            if (TwitterAddon.ScreenName != null)
             {
                 UpdateNotes("Twitter Account", TwitterAddon.ScreenName);
             }
 
             UpdateNotes("Session Reporter", tester);
             UpdateNotes("Session Charter", charter);
-            if (SMWidget.twitter) // Post Twitter Link if Twitter is enabled
+
+            // Write Twitter Link to log file if Twitter is enabled
+            if (TwitterAddon.twitter)
             {
                 UpdateNotes("Twitter Link", "https://twitter.com/#!/search?q=%23" + TwitterAddon.hashCode);
             }
@@ -104,22 +109,14 @@ namespace Rapid_Reporter
             UpdateNotes(noteTypes[type], note, screenshot, RTFNote);
             Logger.record("[UpdateNotes isss]: Note added to session log. Attachments: (" + (screenshot.Length > 0).ToString() + " | " + (RTFNote.Length > 0).ToString() + ")", "Session", "info");
 
-            if (SMWidget.twitter) // Trunc and post on twitter if twitter is enabled
+            if (TwitterAddon.twitter) // Trunc and post to Twitter if Twitter is enabled
             {
-                string twitterPost = "[Reporter: " + tester + ", Charter: " + charter + "] " + note + " #" + noteTypes[type] + " #" + TwitterAddon.hashCode;
-                string twitterNote;
-                int twitterNoteLength;
-                int twitterNumberOfCharsToRemove;
-
-                if (twitterPost.Length > 140)
-                {
-                    twitterNumberOfCharsToRemove = twitterPost.Length - 140; // how many characters to remove
-                    twitterNoteLength = note.Length - twitterNumberOfCharsToRemove; // on which character to start removing
-                    twitterNote = note.Substring(0, twitterNoteLength);
-                    twitterPost = "[Reporter: " + tester + ", Charter: " + charter + "] " + twitterNote + " #" + noteTypes[type] + " #" + TwitterAddon.hashCode;
-                }
-
-                TwitterResponse<TwitterStatus> tweetResponse = TwitterStatus.Update(TwitterAddon.tokens, twitterPost);
+                TwitterAddon.tempNote = note;
+                TwitterAddon.tempType = type;
+                TwitterAddon.tempTester = tester;
+                TwitterAddon.tempCharter = charter;
+                TwitterAddon.tempNoteTypes = noteTypes;
+                TwitterAddon.PostOnTwitter();
             }
         }
 

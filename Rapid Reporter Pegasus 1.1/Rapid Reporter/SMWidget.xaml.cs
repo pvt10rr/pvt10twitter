@@ -27,34 +27,42 @@ namespace Rapid_Reporter
     // Controls the main Widget
     public partial class SMWidget : Window
     {
-        // Post to Twitter enabled (true) or disabled (false)
-        public static bool twitter = true;
-
-        // Counter/Truncer variables
+        // CharCounter variables
         public static string hardcodedText;
         public static int preLength;
         public static int twitterMessageLimit;
-        public static int NumberOfChar;
-        public static int CountDownNrOfChar;
+        public static int numberOfChar;
+        public static int countDownNrOfChar;
 
-        /** Twitter Button **/
-        /********************/
+        // Character Counter
+        public void CharCounter()
+        {
+            hardcodedText = "[Reporter: , Charter: ]  # #";
+            preLength = currentSession.tester.Length + currentSession.charter.Length + currentSession.noteTypes[currentNoteType].Length + TwitterAddon.hashCode.Length;
+            twitterMessageLimit = 140 - preLength - hardcodedText.Length;
+            numberOfChar = NoteContent.CaretIndex;
+            countDownNrOfChar = twitterMessageLimit - numberOfChar;
+            charCounter.Text = countDownNrOfChar.ToString();
+        }
 
+        //Twitter Button
         private void Twitter_Click(object sender, RoutedEventArgs e)
         {
-            if (twitter)
+            if (TwitterAddon.twitter)
             {
-                twitter = false;
+                TwitterAddon.twitter = false;
                 TwitterIcon.Source = new BitmapImage(new Uri("icontwit_dis.png", UriKind.Relative));
                 Twitter.ToolTip = "Twitter Posting Disabled";
+                charCounter.Visibility = Visibility.Hidden;
             }
             else
             {
                 if (currentStage == sessionStartingStage.twitterAccount || TwitterAddon.twitterPIN != null)
                 {
-                    twitter = true;
+                    TwitterAddon.twitter = true;
                     TwitterIcon.Source = new BitmapImage(new Uri("icontwit.png", UriKind.Relative));
                     Twitter.ToolTip = "Twitter Posting Enabled";
+                    charCounter.Visibility = Visibility.Visible;
                 }
              }
         }
@@ -197,7 +205,7 @@ namespace Rapid_Reporter
         {
             int notesLenght = currentSession.noteTypes.Length - 1;
 
-            // Counter/Truncer
+            // CharCounter
             if (currentStage == sessionStartingStage.notes)
             {
                 if (e.Key == Key.Left || e.Key == Key.Right)
@@ -206,15 +214,9 @@ namespace Rapid_Reporter
                 }
                 else
                 {
-                    if (twitter)
+                    if (TwitterAddon.twitter)
                     {
-                        hardcodedText = "[Reporter: , Charter: ]  # #";
-                        preLength = currentSession.tester.Length + currentSession.charter.Length + currentSession.noteTypes[currentNoteType].Length + TwitterAddon.hashCode.Length;
-                        twitterMessageLimit = 140 - preLength - hardcodedText.Length;
-
-                        NumberOfChar = NoteContent.CaretIndex;
-                        CountDownNrOfChar = twitterMessageLimit - NumberOfChar;
-                        charCounter.Text = CountDownNrOfChar.ToString();
+                        CharCounter();
                     }
                 }
             }
@@ -260,14 +262,10 @@ namespace Rapid_Reporter
                 prevType.Text = "↓ " + currentSession.noteTypes[prevNoteType] + ":";
                 nextType.Text = "↑ " + currentSession.noteTypes[nextNoteType] + ":";
 
-                // Counter/Truncer
-                if (twitter)
+                // CharCounter if Twitter is enabled
+                if (TwitterAddon.twitter)
                 {
-                    preLength = currentSession.tester.Length + currentSession.charter.Length + currentSession.noteTypes[currentNoteType].Length + TwitterAddon.hashCode.Length;
-                    twitterMessageLimit = 140 - preLength - hardcodedText.Length;
-                    NumberOfChar = NoteContent.CaretIndex;
-                    CountDownNrOfChar = twitterMessageLimit - NumberOfChar;
-                    charCounter.Text = CountDownNrOfChar.ToString();
+                    CharCounter();
                 }
             }
 
@@ -275,15 +273,17 @@ namespace Rapid_Reporter
             // Enter keys accept the note into the report
             else if (e.Key == Key.Enter)
             {
+                // Disable Twitter if blank
                 if (e.Key == Key.Enter && currentStage == sessionStartingStage.twitterAccount && NoteContent.Text.Trim().Length == 0)
                 {
-                    twitter = false;
+                    TwitterAddon.twitter = false;
                     TwitterIcon.Source = new BitmapImage(new Uri("icontwit_dis.png", UriKind.Relative));
                     Twitter.ToolTip = "Twitter Posting Disabled";
                     Twitter.IsChecked = false;
                     Twitter.IsEnabled = false;
-                    StateMove(sessionStartingStage.tester);
                     currentTwitterAccount.Text = "  Twitter Posting Disabled";
+
+                    StateMove(sessionStartingStage.tester);
                 }
                 // Ignore empty inputs
                 if (e.Key == Key.Enter && NoteContent.Text.Trim().Length != 0)
@@ -298,7 +298,7 @@ namespace Rapid_Reporter
                             MessageBox.Show("Invalid pin. Try again later.", "Error");
                             return;
                         }
-                        TwitterAddon.twitterOAuth();
+                        TwitterAddon.TwitterOAuth();
                         currentTwitterAccount.Text = " Twitter Account: " + TwitterAddon.ScreenName;
                         StateMove(sessionStartingStage.tester);
                     }
@@ -348,11 +348,11 @@ namespace Rapid_Reporter
             switch (currentStage)
             {
                 case sessionStartingStage.twitterAccount:
-                    NoteType.Text = "TwitterPIN:"; prevType.Text = ""; nextType.Text = "";
+                    NoteType.Text = "Twitter PIN:"; prevType.Text = ""; nextType.Text = "";
                     prevNoteType = 1; nextNoteType = currentSession.noteTypes.Length - 1;
                     OpenFolder.Header = "Change working folder...";
                     Logger.record("\t[StateMove]: Session Stage moving -> TwitterPIN", "SMWidget", "info");
-                    TwitterAddon.twitterLogin();
+                    TwitterAddon.TwitterLogin();
                     break;
                 case sessionStartingStage.tester:
                     NoteType.Text = "Reporter:";

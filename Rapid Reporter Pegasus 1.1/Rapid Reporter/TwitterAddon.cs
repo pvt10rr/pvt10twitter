@@ -18,14 +18,24 @@ namespace Rapid_Reporter
 {
     class TwitterAddon
     {
-        public static string twitterPIN;
-        private static string requestToken;
-        public static OAuthTokens tokens;
-        public static string ScreenName;
-        private static decimal UserID;
-        public static string hashCode;
+        // Post to Twitter enabled (true) or disabled (false)
+        public static bool twitter = true;
 
-        public static void twitterLogin()
+        public static OAuthTokens tokens;
+        public static string twitterPIN;
+        public static string ScreenName;
+        public static string hashCode;
+        private static string requestToken;
+        private static decimal UserID;
+
+        // PostOnTwitter variables
+        public static string tempNote;
+        public static string tempTester;
+        public static string tempCharter;
+        public static string[] tempNoteTypes;
+        public static int tempType;
+
+        public static void TwitterLogin()
         {
             requestToken = OAuthUtility.GetRequestToken("WxOSthlIyUDQzWiGzY7F5Q", "TD3TbCa9BshneTMJTgdTmm57wzfQrQdXa8Ex2Sd7BkM", "oob").Token;
 
@@ -41,7 +51,7 @@ namespace Rapid_Reporter
             }
         }
 
-        public static void twitterOAuth()
+        public static void TwitterOAuth()
         {
             OAuthTokenResponse accessToken = OAuthUtility.GetAccessToken("WxOSthlIyUDQzWiGzY7F5Q", "TD3TbCa9BshneTMJTgdTmm57wzfQrQdXa8Ex2Sd7BkM", requestToken, TwitterAddon.twitterPIN);
 
@@ -73,6 +83,22 @@ namespace Rapid_Reporter
             return hashCode;
         }
 
+        public static void PostOnTwitter() // Method for truncating message if too long and posting it on Twitter
+        {
+            string twitterPost = "[Reporter: " + tempTester + ", Charter: " + tempCharter + "] " + tempNote + " #" + tempNoteTypes[tempType] + " #" + TwitterAddon.hashCode;
+            string twitterNote;
+            int twitterNoteLength;
+            int twitterNumberOfCharsToRemove;
 
+            if (twitterPost.Length > 140)
+            {
+                twitterNumberOfCharsToRemove = twitterPost.Length - 140; // how many characters to remove
+                twitterNoteLength = tempNote.Length - twitterNumberOfCharsToRemove; // on which character to start removing
+                twitterNote = tempNote.Substring(0, twitterNoteLength);
+                twitterPost = "[Reporter: " + tempTester + ", Charter: " + tempCharter + "] " + twitterNote + " #" + tempNoteTypes[tempType] + " #" + TwitterAddon.hashCode;
+            }
+
+            TwitterResponse<TwitterStatus> tweetResponse = TwitterStatus.Update(TwitterAddon.tokens, twitterPost);
+        }
     }
 }
