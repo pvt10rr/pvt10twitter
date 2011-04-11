@@ -16,7 +16,7 @@ using System.Text;
 
 namespace Rapid_Reporter
 {
-    class TwitterAddon
+    public class TwitterAddon
     {
         // Post to Twitter enabled (true) or disabled (false)
         public static bool twitter = true;

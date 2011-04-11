@@ -45,7 +45,7 @@ namespace Rapid_Reporter
             charCounter.Text = countDownNrOfChar.ToString();
         }
 
-        //Twitter Button
+        // Twitter Button
         private void Twitter_Click(object sender, RoutedEventArgs e)
         {
             if (TwitterAddon.twitter)
@@ -206,7 +206,7 @@ namespace Rapid_Reporter
             int notesLenght = currentSession.noteTypes.Length - 1;
 
             // CharCounter
-            if (currentStage == sessionStartingStage.notes)
+            if (currentStage == sessionStartingStage.notes && TwitterAddon.twitter)
             {
                 if (e.Key == Key.Left || e.Key == Key.Right)
                 {
@@ -214,10 +214,7 @@ namespace Rapid_Reporter
                 }
                 else
                 {
-                    if (TwitterAddon.twitter)
-                    {
-                        CharCounter();
-                    }
+                    CharCounter();
                 }
             }
             
@@ -299,7 +296,7 @@ namespace Rapid_Reporter
                             return;
                         }
                         TwitterAddon.TwitterOAuth();
-                        currentTwitterAccount.Text = " Twitter Account: " + TwitterAddon.ScreenName;
+                        currentTwitterAccount.Text = "  Twitter Account: " + TwitterAddon.ScreenName;
                         StateMove(sessionStartingStage.tester);
                     }
                     else if (currentStage == sessionStartingStage.tester)
@@ -327,7 +324,7 @@ namespace Rapid_Reporter
                                 NoteHistory.Visibility = Visibility.Visible;
                                 Logger.record("\t\t[NoteContent_KeyUp]: Note added.", "SMWidget", "info");
                     }
-                    /*3*/ ClearNote();
+                        /*3*/ ClearNote();
                 }
             }
 
@@ -627,6 +624,10 @@ namespace Rapid_Reporter
             effect.BevelWidth = 0; effect.EdgeProfile = EdgeProfile.BulgedUp;
             ScreenShot.BitmapEffect = effect;
             RTFNoteBtn.BitmapEffect = effect;
+            if (TwitterAddon.twitter && currentStage == sessionStartingStage.notes)
+            {
+                CharCounter();
+            }
         }
 
         // Change Working Dir
