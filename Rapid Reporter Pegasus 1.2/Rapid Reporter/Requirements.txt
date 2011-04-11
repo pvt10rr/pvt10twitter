@@ -1,0 +1,60 @@
+﻿Rapid Reporter - Requirements CheckList
+Rapid Reporter is a non-intrusive application for mastering notetaking and reports, especially designed for Session Based Tests (SBTM)
+=======================================
+Done?	What
+-----	-------------------------------
+(Section: Form)
+[ X ]	Aplication window has appealing colors -- they should be clean, but still should be easily recognizable: Users should not look for the app in the screen. Now it uses yellow.
+[ X ]	Interface should be specific for the purpose. It is an interface of hand-made software, crafted in boutique, neo-victorian software.
+[ X ]	Windows stays on top so it can be used all the time during tests, no need to look for it
+[ X ]	Can be set transparent so it doesn't hide part of the app under test, or pollute the visual too much
+[	]	Can be set transparent with keyboard, by using Ctrl-+ and Ctrl--
+[ X ]	Note writting area keeps always in focus, even after/while pressing other buttons. Always ready to write.
+[ X ]	Application can be dragged/moved around to keep it from the way
+[ X ]	Application can be resized for the users comfort. Widget can be resized sideways, but not up/down.
+[	]	Corners are round for nice visual effect :)
+[ X ]	RTF Notes open closer to the RTF button, either on top or on bottom (if there's no place on top)
+[ X ]	The buttons provide a visual feedback of whether there is a screenshot or note 'loaded' for the note.
+(Section: Function)
+[ X ]	Application is standalone, no installation necessary, and portable -- can be run from diskonkey!
+[ X ]	Tool should be quick to use. Focus the app, write the note, pres enter, voila.
+[	]	Has a shortcut that jumps directly to the note input field of the tool, for mouse-less note addition
+[ X ]	Takes a screenshot of the screen and attaches it to a specific note
+[ X ]	Provides a RTF rich text form, saves it and attaches it to a specific note -- this enables the use of tables!
+[	]	Screenshot feature and RTF feature can be triggered by using Ctrl-S and Ctrl-N respectively
+[	]	Screenshot and RTF buttons have nice images instead of "S" and "N". Maybe not needed.
+[ X ]	Note types (bug, note, setup,. test...) are easily exchangeable by pressing up/down arrow -- no hassle!
+[ X ]	Note type can be changed in the middle of note taking, yay!
+[ X ]	Time tracking Progress Bar can be stopped or reconfigured
+[ X ]	Every note is saved automatically, no risk of losing all data if app crashes :)
+[ X ]	Notes are saved with timestamp, in a sortable and almost readable format
+[ X ]	Notes are saved in CSV format, ready to be open with Excel (Excel can sort, count, chart, report...)
+[ X ]	Tool has a context-menu with configurations, where duration etc can be set.
+[ X ]	Tool has a context-menu that opens the working directory, to allow note editing or review
+[ X ]	Tool has a context-menu that shows an about dialog (includes version, website, credits)
+[ X ]	The background of the textbox acts as a progress bar for the session, according to the session duration
+[ X ]	Note content area shows note history in a context menu, can chose a previous entry for text basis
+(Section: Reports)
+[ X ]	Session notes show when the session started and ended
+(Section: Misc)
+[	]	Code is elegant, has low coupling and high cohesion
+[ X ]	Closing the RTF area will not lose the text content. This persistence is needed for reuse.
+[ X ]	Tool does not count empty comments as a report entry (ignore them).
+[ X ]	Request from user: Add "-report" switch that will make a big report out of all reports.
+[ X ]	Pressing escape deletes the current note and references to screenshots and RTF. RTF note is not deleted.
+[	]	Add switch to "logallactivity" to add to session all screenshots
+[	]	Screenshot file name -- include initials
+[	]	Add a "Prime me" feature (Request counter: Requested by _1_ user)
+[ X ]	Time's up alert appears when session is over. Can be dismissed by the click of a button.
+[ X ]	Version's tool identifies a build
+[	]	Version tool increases every build
+[ X ]	There is a logging mechanism to track internal flows.
+(Section: Requirements)
+[ X	]	OS: Windows (XP, Vista, 7). 32/64 bits.
+[ X ]	.NET Framework 3.5 or higher.e
+
+Bugs
+----
+[ X ]	After the RTF window is closed (X, 'close', Alt-F4?), reopening throws exception.
+[	]	No real tables support in the RTF editor :`(
+[	]	Maximizing in Win7 goes crazy. Use http://codesmart.wordpress.com/2008/07/07/disabling-the-maximize-button-in-wpf/ ?
