@@ -278,7 +278,7 @@ namespace Rapid_Reporter
                     Twitter.ToolTip = "Twitter Posting Disabled";
                     Twitter.IsChecked = false;
                     Twitter.IsEnabled = false;
-                    currentTwitterAccount.Text = "  Twitter Posting Disabled";
+                    currentTwitterAccount.Text = "Twitter Posting Disabled  ";
 
                     StateMove(sessionStartingStage.tester);
                 }
@@ -296,7 +296,7 @@ namespace Rapid_Reporter
                             return;
                         }
                         TwitterAddon.TwitterOAuth();
-                        currentTwitterAccount.Text = "  Twitter Account: " + TwitterAddon.ScreenName;
+                        currentTwitterAccount.Text = "Twitter Account: " + TwitterAddon.ScreenName + "  ";
                         StateMove(sessionStartingStage.tester);
                     }
                     else if (currentStage == sessionStartingStage.tester)
