@@ -1,0 +1,15 @@
+body 
+{
+	background-image:url('http://test1.testalways.com/cgi-bin/cards/images/deck_final/King_spades_png.png');
+	background-repeat:no-repeat;
+	background-position:left top;
+} 
+#allbody
+{
+	background-image:url('http://weekendtesting.com/wp-content/uploads/2009/12/WTlogo.jpg');
+	background-repeat:no-repeat;
+	background-position:right top;
+}
+table tr.Vraag {background: #DDDD55;}
+table tr.Controle {font-weight: bold;}
+H1 {color:#000000;}
