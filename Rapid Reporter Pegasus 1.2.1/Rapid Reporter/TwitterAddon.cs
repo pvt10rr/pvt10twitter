@@ -1,18 +1,6 @@
 ﻿using System;
-using System.Collections;
 using System.Diagnostics;
-using System.Drawing;
-using System.Drawing.Imaging;
-using System.IO;
-using System.Windows;
-using System.Windows.Input;
-using System.Windows.Media.Animation;
-using System.Windows.Media.Effects;
-using System.Windows.Media.Imaging;
-using System.Threading;
 using Twitterizer;
-using System.Security.Cryptography;
-using System.Text;
 
 namespace Rapid_Reporter
 {
