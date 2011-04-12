@@ -465,4 +465,3 @@ namespace Rapid_Reporter {
         }
     }
 }
-
