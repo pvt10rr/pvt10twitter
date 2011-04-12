@@ -1,0 +1,22 @@
+﻿<Window x:Class="Rapid_Reporter.RTFNote"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Rich Text (text is attached to note only at the moment you press the 'Save' button)" Height="200" Name="RTFNoteDialog" AllowsTransparency="false" Visibility="Hidden" Icon="RapidReporter.ico" ShowInTaskbar="False" Topmost="True" IsVisibleChanged="RTFNoteDialog_VisibilityChanged">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="30" />
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" FontSize="10">Bold: ctrl-b ; Italics: ctrl-i ; Underline: ctrl-u ; Font+1: ctrl-] ; Font-1: ctrl-[ ; Paste works for images and from other text editors</Label>
+        <RichTextBox Margin="5" Grid.Row="1" Name="richTextNote" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" AcceptsTab="True"></RichTextBox>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="0" HorizontalAlignment="Right" Margin="5" Name="clean" Width="80" IsCancel="False" Click="clean_Click">Clear Text</Button>
+            <Button Grid.Column="1" HorizontalAlignment="Right" Margin="5" Name="save" Width="100" Click="save_Click">Save and Hide</Button>
+        </Grid>
+    </Grid>
+</Window>
