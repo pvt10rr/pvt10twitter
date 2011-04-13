@@ -34,7 +34,8 @@ namespace Rapid_Reporter
         public static int numberOfChar;
         public static int countDownNrOfChar;
 
-        // Character Counter
+        // Shows how many more characters you can type in your note
+        // until it will be truncated. (If Twitter is enabled).
         public void CharCounter()
         {
             hardcodedText = "[Reporter: , Charter: ]  # #";
@@ -45,23 +46,33 @@ namespace Rapid_Reporter
             charCounter.Text = countDownNrOfChar.ToString();
         }
 
-        // Twitter Button
+        // What happens when you press the Twitter button.
         private void Twitter_Click(object sender, RoutedEventArgs e)
         {
+            // What happes if Twitter is enabled.
             if (TwitterAddon.twitter)
             {
+                // Disables Twitter.
                 TwitterAddon.twitter = false;
+                // Changes button icon.
                 TwitterIcon.Source = new BitmapImage(new Uri("icontwit_dis.png", UriKind.Relative));
+                // Changes button tooltip.
                 Twitter.ToolTip = "Twitter Posting Disabled";
+                // Hides the Character Counter.
                 charCounter.Visibility = Visibility.Hidden;
             }
             else
             {
+                // What happens if Twitter is disabled.
                 if (currentStage == sessionStartingStage.twitterAccount || TwitterAddon.twitterPIN != null)
                 {
+                    // Enables Twitter.
                     TwitterAddon.twitter = true;
+                    // Changes button icon.
                     TwitterIcon.Source = new BitmapImage(new Uri("icontwit.png", UriKind.Relative));
+                    // Changes button tooltip.
                     Twitter.ToolTip = "Twitter Posting Enabled";
+                    // Makes the Character Counter visible.
                     charCounter.Visibility = Visibility.Visible;
                 }
              }
@@ -205,12 +216,12 @@ namespace Rapid_Reporter
         {
             int notesLenght = currentSession.noteTypes.Length - 1;
 
-            // CharCounter
+            // Updates the Character Counter if current stage is notes and Twitter is enabled.
             if (currentStage == sessionStartingStage.notes && TwitterAddon.twitter)
             {
                 if (e.Key == Key.Left || e.Key == Key.Right)
                 {
-                    // ignore if pressing left or right key
+                    // Ignore if pressing left or right key
                 }
                 else
                 {
@@ -259,7 +270,7 @@ namespace Rapid_Reporter
                 prevType.Text = "↓ " + currentSession.noteTypes[prevNoteType] + ":";
                 nextType.Text = "↑ " + currentSession.noteTypes[nextNoteType] + ":";
 
-                // CharCounter if Twitter is enabled
+                // Updates Character Counter if Twitter is enabled.
                 if (TwitterAddon.twitter)
                 {
                     CharCounter();
@@ -270,7 +281,7 @@ namespace Rapid_Reporter
             // Enter keys accept the note into the report
             else if (e.Key == Key.Enter)
             {
-                // Disable Twitter if blank
+                // Disables Twitter if Twitter PIN is left blank.
                 if (e.Key == Key.Enter && currentStage == sessionStartingStage.twitterAccount && NoteContent.Text.Trim().Length == 0)
                 {
                     TwitterAddon.twitter = false;

@@ -14,7 +14,7 @@ using System.Text;
 
 namespace Rapid_Reporter
 {
-    public class Session // changed to 'public'
+    public class Session // Changed to 'public'.
     {
 
         /** Variables **/
@@ -30,6 +30,7 @@ namespace Rapid_Reporter
         public string twitterAccount = "";   // Used when typing in your Twitter PIN
         public string charter = "";         // Session objective. Configured in runtime.
         public string tester = "";          // Tester's name. Configured in runtime.
+
         // The types of comments. This can be overriden from command line, so every person can use his own terminology or language
         public string[] noteTypes = new string[7] { "Setup", "Note", "Test", "Check", "Bug", "Question", "NextTime" };
 
@@ -58,14 +59,14 @@ namespace Rapid_Reporter
             sessionFileFull = workingDir + sessionFile; // All files should be written to a working directory -- be it current or not.
             SaveToSessionNotes(columnHeaders + "\n"); // Headers of the notes table
 
-            TwitterAddon.GetUniqueKey(7); // Calling the Hash Code method in TwitterAddon
+            TwitterAddon.GetUniqueKey(7); // Calling the hash code method in TwitterAddon.
 
             UpdateNotes("(Rapid Reporter version)", System.Windows.Forms.Application.ProductVersion);
 
-            // Writing Hash Code to log file
+            // Writing hash code to log file.
             UpdateNotes("Hash Code", TwitterAddon.hashCode);
 
-            // Writing the Twitter account name to log file if using twitter posting
+            // Writing the Twitter account name to log file if Twitter is enabled.
             if (TwitterAddon.ScreenName != null)
             {
                 UpdateNotes("Twitter Account", TwitterAddon.ScreenName);
@@ -74,7 +75,7 @@ namespace Rapid_Reporter
             UpdateNotes("Session Reporter", tester);
             UpdateNotes("Session Charter", charter);
 
-            // Write Twitter Link to log file if Twitter is enabled
+            // Writing Twitter Link to log file if Twitter is enabled.
             if (TwitterAddon.twitter)
             {
                 UpdateNotes("Twitter Link", "https://twitter.com/#!/search?q=%23" + TwitterAddon.hashCode);
@@ -109,7 +110,8 @@ namespace Rapid_Reporter
             UpdateNotes(noteTypes[type], note, screenshot, RTFNote);
             Logger.record("[UpdateNotes isss]: Note added to session log. Attachments: (" + (screenshot.Length > 0).ToString() + " | " + (RTFNote.Length > 0).ToString() + ")", "Session", "info");
 
-            if (TwitterAddon.twitter) // Trunc and post to Twitter if Twitter is enabled
+            // Truncate if necessary and post on Twitter if Twitter is enabled.
+            if (TwitterAddon.twitter)
             {
                 TwitterAddon.tempNote = note;
                 TwitterAddon.tempType = type;
