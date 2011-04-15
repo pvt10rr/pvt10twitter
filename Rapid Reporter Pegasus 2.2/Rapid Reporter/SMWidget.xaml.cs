@@ -663,7 +663,7 @@ namespace Rapid_Reporter
                             m_flickr.Login();
                             FlickrInlogg.Text = "Flickr Account: " + m_flickr.GetCurrentUser() + "  ";
                             URL = m_flickr.GetUrl(m_flickr.Upload(screenshotName, "", "", currentSession.GetTags() + strFileTag));
-                            currentSession.UpdateNotes("WebUrl: ", URL);
+                            currentSession.UpdateNotes("Flickr Link: ", URL);
                             m_flickrLoggedIn = true;
                         }
                     }
