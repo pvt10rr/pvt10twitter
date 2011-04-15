@@ -432,7 +432,7 @@ namespace Rapid_Reporter
                     }
                     else
                     {
-                        FlickrInlogg.Text = "Flickr Offline";
+                        FlickrInlogg.Text = "Flickr Offline  ";
                     }
 
 
