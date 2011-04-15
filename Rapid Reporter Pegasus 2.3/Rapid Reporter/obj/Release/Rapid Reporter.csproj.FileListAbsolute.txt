@@ -1,0 +1,298 @@
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\bin\Release\RapidReporter.exe.manifest
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\bin\Release\RapidReporter.application
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\bin\Release\RapidReporter.exe
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\bin\Release\RapidReporter.pdb
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\ResolveAssemblyReference.cache
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\AboutDlg.baml
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\Help.baml
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\RTFNote.baml
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\SMWidget.baml
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\AboutDlg.g.cs
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\Help.g.cs
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\RTFNote.g.cs
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\SMWidget.g.cs
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\App.g.cs
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\RapidReporter_MarkupCompile.cache
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\RapidReporter.g.resources
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\Rapid_Reporter.Properties.Resources.resources
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\ResGen.read.1.tlog
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\ResGen.write.1.tlog
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\RapidReporter.exe.manifest
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\RapidReporter.application
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\RapidReporter.exe
+C:\Users\kgm\Desktop\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\RapidReporter.pdb
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\bin\Release\RapidReporter.exe.config
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\bin\Release\RapidReporter.exe.manifest
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\bin\Release\RapidReporter.application
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\bin\Release\RapidReporter.exe
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\bin\Release\RapidReporter.pdb
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\bin\Release\Twitterizer2.dll
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\bin\Release\Newtonsoft.Json.dll
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\bin\Release\Twitterizer2.pdb
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\bin\Release\Twitterizer2.xml
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\bin\Release\Newtonsoft.Json.pdb
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\bin\Release\Newtonsoft.Json.xml
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\ResolveAssemblyReference.cache
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\AboutDlg.baml
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\Help.baml
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\RTFNote.baml
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\SMWidget.baml
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\AboutDlg.g.cs
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\Help.g.cs
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\RTFNote.g.cs
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\SMWidget.g.cs
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\App.g.cs
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\RapidReporter_MarkupCompile.cache
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\RapidReporter.g.resources
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\Rapid_Reporter.Properties.Resources.resources
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\ResGen.read.1.tlog
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\ResGen.write.1.tlog
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\RapidReporter.exe.manifest
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\RapidReporter.application
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\RapidReporter.exe
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter-0dec7c6a72d6ea1e\Rapid Reporter\obj\Release\RapidReporter.pdb
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\bin\Release\RapidReporter.exe.config
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\bin\Release\RapidReporter.exe.manifest
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\bin\Release\RapidReporter.application
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\bin\Release\RapidReporter.exe
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\bin\Release\RapidReporter.pdb
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\bin\Release\Twitterizer2.dll
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\bin\Release\Newtonsoft.Json.dll
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\bin\Release\Twitterizer2.pdb
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\bin\Release\Twitterizer2.xml
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\bin\Release\Newtonsoft.Json.pdb
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\bin\Release\Newtonsoft.Json.xml
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\ResolveAssemblyReference.cache
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\AboutDlg.baml
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\Help.baml
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\RTFNote.baml
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\SMWidget.baml
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\AboutDlg.g.cs
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\Help.g.cs
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\RTFNote.g.cs
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\SMWidget.g.cs
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\App.g.cs
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\RapidReporter_MarkupCompile.cache
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\RapidReporter.g.resources
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\Rapid_Reporter.Properties.Resources.resources
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\ResGen.read.1.tlog
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\ResGen.write.1.tlog
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\RapidReporter.exe.manifest
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\RapidReporter.application
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\RapidReporter.exe
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter\Rapid Reporter\obj\Release\RapidReporter.pdb
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\bin\Release\RapidReporter.exe.config
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\bin\Release\RapidReporter.exe.manifest
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\bin\Release\RapidReporter.application
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\bin\Release\RapidReporter.exe
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\bin\Release\RapidReporter.pdb
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\bin\Release\Twitterizer2.dll
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\bin\Release\Newtonsoft.Json.dll
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\bin\Release\Twitterizer2.pdb
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\bin\Release\Twitterizer2.xml
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\bin\Release\Newtonsoft.Json.pdb
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\bin\Release\Newtonsoft.Json.xml
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\ResolveAssemblyReference.cache
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\AboutDlg.baml
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\Help.baml
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\RTFNote.baml
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\SMWidget.baml
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\AboutDlg.g.cs
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\Help.g.cs
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\RTFNote.g.cs
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\SMWidget.g.cs
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\App.g.cs
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\RapidReporter_MarkupCompile.cache
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\RapidReporter.g.resources
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\Rapid_Reporter.Properties.Resources.resources
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\ResGen.read.1.tlog
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\ResGen.write.1.tlog
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\RapidReporter.exe.manifest
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\RapidReporter.application
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\RapidReporter.exe
+D:\APPS\PLUGG\Projektkunskap VT11\Rapid Reporter 0.4\Rapid Reporter\obj\Release\RapidReporter.pdb
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\RapidReporter.exe.config
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\RapidReporter.exe.manifest
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\RapidReporter.application
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\RapidReporter.exe
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\RapidReporter.pdb
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\Twitterizer2.dll
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\Newtonsoft.Json.dll
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\Twitterizer2.pdb
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\Twitterizer2.xml
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\Newtonsoft.Json.pdb
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\Newtonsoft.Json.xml
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\ResolveAssemblyReference.cache
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\AboutDlg.baml
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\Help.baml
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\RTFNote.baml
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\SMWidget.baml
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\AboutDlg.g.cs
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\Help.g.cs
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\RTFNote.g.cs
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\SMWidget.g.cs
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\App.g.cs
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\RapidReporter_MarkupCompile.cache
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\RapidReporter.g.resources
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\Rapid_Reporter.Properties.Resources.resources
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\ResGen.read.1.tlog
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\ResGen.write.1.tlog
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\RapidReporter.exe.manifest
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\RapidReporter.application
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\RapidReporter.exe
+D:\KRISTOFFER\GIT\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\RapidReporter.pdb
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\RapidReporter.exe.config
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\RapidReporter.exe.manifest
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\RapidReporter.application
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\RapidReporter.exe
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\RapidReporter.pdb
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\Twitterizer2.dll
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\Newtonsoft.Json.dll
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\Twitterizer2.pdb
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\Twitterizer2.xml
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\Newtonsoft.Json.pdb
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\bin\Release\Newtonsoft.Json.xml
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\ResolveAssemblyReference.cache
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\AboutDlg.baml
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\Help.baml
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\RTFNote.baml
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\SMWidget.baml
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\AboutDlg.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\Help.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\RTFNote.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\SMWidget.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\App.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\RapidReporter_MarkupCompile.cache
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\RapidReporter.g.resources
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\Rapid_Reporter.Properties.Resources.resources
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\ResGen.read.1.tlog
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\ResGen.write.1.tlog
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\RapidReporter.exe.manifest
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\RapidReporter.application
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\RapidReporter.exe
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.0\Rapid Reporter\obj\Release\RapidReporter.pdb
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\bin\Release\RapidReporter.exe.config
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\bin\Release\RapidReporter.exe.manifest
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\bin\Release\RapidReporter.application
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\bin\Release\RapidReporter.exe
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\bin\Release\RapidReporter.pdb
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\bin\Release\Twitterizer2.dll
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\bin\Release\Newtonsoft.Json.dll
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\bin\Release\Twitterizer2.pdb
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\bin\Release\Twitterizer2.xml
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\bin\Release\Newtonsoft.Json.pdb
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\bin\Release\Newtonsoft.Json.xml
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\ResolveAssemblyReference.cache
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\AboutDlg.baml
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\Help.baml
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\RTFNote.baml
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\SMWidget.baml
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\AboutDlg.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\Help.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\RTFNote.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\SMWidget.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\App.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\RapidReporter_MarkupCompile.cache
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\RapidReporter.g.resources
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\Rapid_Reporter.Properties.Resources.resources
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\ResGen.read.1.tlog
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\ResGen.write.1.tlog
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\RapidReporter.exe.manifest
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\RapidReporter.application
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\RapidReporter.exe
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.1\Rapid Reporter\obj\Release\RapidReporter.pdb
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\bin\Release\RapidReporter.exe.config
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\bin\Release\RapidReporter.exe.manifest
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\bin\Release\RapidReporter.application
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\bin\Release\RapidReporter.exe
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\bin\Release\RapidReporter.pdb
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\bin\Release\Twitterizer2.dll
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\bin\Release\Newtonsoft.Json.dll
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\bin\Release\Twitterizer2.pdb
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\bin\Release\Twitterizer2.xml
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\bin\Release\Newtonsoft.Json.pdb
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\bin\Release\Newtonsoft.Json.xml
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\ResolveAssemblyReference.cache
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\AboutDlg.baml
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\Help.baml
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\RTFNote.baml
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\SMWidget.baml
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\AboutDlg.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\Help.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\RTFNote.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\SMWidget.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\App.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\RapidReporter_MarkupCompile.cache
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\RapidReporter.g.resources
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\Rapid_Reporter.Properties.Resources.resources
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\ResGen.read.1.tlog
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\ResGen.write.1.tlog
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\RapidReporter.exe.manifest
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\RapidReporter.application
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\RapidReporter.exe
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\obj\Release\RapidReporter.pdb
+D:\KRISTOFFER\Rapid Reporter Pegasus 1.2.1\Rapid Reporter\bin\Release\FlickrNet.dll
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\bin\Release\RapidReporter.exe.config
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\bin\Release\RapidReporter.exe.manifest
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\bin\Release\RapidReporter.application
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\bin\Release\RapidReporter.exe
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\bin\Release\RapidReporter.pdb
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\bin\Release\FlickrNet.dll
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\bin\Release\Twitterizer2.dll
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\bin\Release\Newtonsoft.Json.dll
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\bin\Release\Twitterizer2.pdb
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\bin\Release\Twitterizer2.xml
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\bin\Release\Newtonsoft.Json.pdb
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\bin\Release\Newtonsoft.Json.xml
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\ResolveAssemblyReference.cache
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\AboutDlg.baml
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\Help.baml
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\RTFNote.baml
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\SMWidget.baml
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\AboutDlg.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\Help.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\RTFNote.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\SMWidget.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\App.g.cs
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\RapidReporter_MarkupCompile.cache
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\RapidReporter.g.resources
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\Rapid_Reporter.Properties.Resources.resources
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\ResGen.read.1.tlog
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\ResGen.write.1.tlog
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\RapidReporter.exe.manifest
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\RapidReporter.application
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\RapidReporter.exe
+D:\KRISTOFFER\Rapid Reporter Pegasus 2.0\Rapid Reporter\obj\Release\RapidReporter.pdb
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\bin\Release\RapidReporter.exe.config
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\bin\Release\RapidReporter.exe.manifest
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\bin\Release\RapidReporter.application
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\bin\Release\RapidReporter.exe
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\bin\Release\RapidReporter.pdb
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\bin\Release\FlickrNet.dll
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\bin\Release\Twitterizer2.dll
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\bin\Release\Newtonsoft.Json.dll
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\bin\Release\Twitterizer2.pdb
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\bin\Release\Twitterizer2.xml
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\bin\Release\Newtonsoft.Json.pdb
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\bin\Release\Newtonsoft.Json.xml
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\ResolveAssemblyReference.cache
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\AboutDlg.baml
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\Help.baml
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\RTFNote.baml
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\SMWidget.baml
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\AboutDlg.g.cs
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\Help.g.cs
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\RTFNote.g.cs
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\SMWidget.g.cs
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\App.g.cs
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\RapidReporter_MarkupCompile.cache
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\RapidReporter.g.resources
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\Rapid_Reporter.Properties.Resources.resources
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\ResGen.read.1.tlog
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\ResGen.write.1.tlog
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\RapidReporter.exe.manifest
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\RapidReporter.application
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\RapidReporter.exe
+C:\CSharp\Rapid Reporter Pegasus 2.3\Rapid Reporter\obj\Release\RapidReporter.pdb
