@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="27eaae16-f8f4-469e-a7a0-9db9d1112213" name="Fredrik@NAGIKSBAGERI 2011-04-08 12:02:20" runUser="Nagiksbageri\Fredrik" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="7c392b08-ea84-4a2d-bfc1-1cae2dbc4634">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Fredrik_NAGIKSBAGERI 2011-04-08 12_02_20">
+      <DeploymentItem filename="C:\Program Files (x86)\NUnit 2.5.8\bin\net-2.0\framework\nunit.framework.dll" />
+      <DeploymentItem filename="C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-04-08T12:02:20.3840331+02:00" queuing="2011-04-08T12:02:23.6842218+02:00" start="2011-04-08T12:02:23.9912394+02:00" finish="2011-04-08T12:02:28.7425112+02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\fredrik\desktop\kyhutbildning\projektgrupp\flickraddontest\flickraddontest\flickraddontest\bin\debug\flickraddontest.dll" id="4a179a76-5512-3548-155d-805c4ee6d1ae">
+      <Execution id="74cf66c4-129d-4024-9fc2-83e226805541" />
+      <TestMethod codeBase="C:/Users/Fredrik/Desktop/KYHUtbildning/Projektgrupp/FlickraddonTest/FlickraddonTest/FlickraddonTest/bin/Debug/FlickraddonTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FlickraddonTest.UnitTest1, FlickraddonTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4a179a76-5512-3548-155d-805c4ee6d1ae" executionId="74cf66c4-129d-4024-9fc2-83e226805541" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="74cf66c4-129d-4024-9fc2-83e226805541" testId="4a179a76-5512-3548-155d-805c4ee6d1ae" testName="TestMethod1" computerName="NAGIKSBAGERI" duration="00:00:00.0145847" startTime="2011-04-08T12:02:25.2063089+02:00" endTime="2011-04-08T12:02:28.6245044+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="74cf66c4-129d-4024-9fc2-83e226805541">
+    </UnitTestResult>
+  </Results>
+</TestRun>

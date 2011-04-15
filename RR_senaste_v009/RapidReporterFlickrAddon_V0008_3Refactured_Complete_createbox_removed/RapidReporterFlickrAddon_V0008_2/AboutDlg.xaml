@@ -1,0 +1,98 @@
+﻿<Window x:Class="Rapid_Reporter.AboutDlg"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About" IsEnabled="True" ResizeMode="NoResize" ShowInTaskbar="False" SizeToContent="WidthAndHeight" BorderThickness="1" WindowStartupLocation="CenterOwner" Icon="RapidReporter.ico" Topmost="True" Loaded="Window_Loaded">
+    <Grid Name="Columns2_1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="34" />
+            <ColumnDefinition Width="Auto" />
+        </Grid.ColumnDefinitions>
+        <Image Source="RapidReporter.ico" Grid.Column="0" VerticalAlignment="Top" Margin="0,20,0,0"></Image>
+        <Grid Grid.Column="1" Name="Rows4_1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="10" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="10"  />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0" Name="NameVersion">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Label Name="appName" Grid.Column="0" Content="error: not retrieved" FontWeight="Bold" HorizontalAlignment="Center"></Label>
+                <Label Name="appVers" Grid.Column="1" Content="error: not retrieved" FontWeight="Bold" HorizontalAlignment="Center"></Label>
+            </Grid>
+            <Label Name="Description" Grid.Row="1" Content="Non-intrusive application for notetaking and reports, great for SBTM" HorizontalAlignment="Center"></Label>
+            <Label Name="Website" Grid.Row="2" HorizontalAlignment="Center" >
+                <Hyperlink NavigateUri="http://testing.gershon.info/reporter/" RequestNavigate="Hyperlink_RequestNavigate">Info, new versions and reporting bugs: http://testing.gershon.info/reporter</Hyperlink>
+            </Label>
+            <Label Name="spacer1" Grid.Row="3" Content="" HorizontalAlignment="Center"></Label>
+            <Label Name="License" Grid.Row="4" Content="CC License: BY-NC-SA  |  by Shmuel Gershon" HorizontalAlignment="Center" FontSize="9"></Label>
+            <Button Name="Help" Grid.Row="4" HorizontalAlignment="Left" Padding="5,1" Margin="5,0" Click="Help_Click">Help</Button>
+            <Button Name="Ok" Grid.Row="4" HorizontalAlignment="Right" Padding="5,1" Margin="5,0" IsCancel="True">Ok</Button>
+            <Label Name="spacer2" Grid.Row="5" Content="" HorizontalAlignment="Center"></Label>
+            <Grid Grid.Row="6" Name="Credits">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Expander Grid.Row="0" Header="Thanks to:" HorizontalContentAlignment="Center" FontSize="9" Focusable="True" >
+                    <StackPanel>
+                        <Label Name="Credit1" Content="Anna Lukin, Moshe Eliahu, Aviah Harush, Jon Bach, Alex Kell, Ravit Dotan, Erik Petersen, James Bach" HorizontalAlignment="Center" FontSize="9"></Label>
+                        <Label Name="Credit2" Content="Bernie Berger, Nir Radian, Markus Gaertner, Felipe Knorr Kuhn, Peter Gillogley, Fabricio Campos" HorizontalAlignment="Center" FontSize="9"></Label>
+                        <Label Name="Credit3" Content="Issi Hazan, Ray Oei, Marc Goodwin, Kobi Halperin, Trevor Wolter, Michael Bolton, Joe Harter" HorizontalAlignment="Center" FontSize="9"></Label>
+                        <Label Name="Credit4" Content="Albert Gareev, Zeger Van Hese, John Stevenson, Carsten Feilberg, Alex Rotaru, Ola Hylten" HorizontalAlignment="Center" FontSize="9"></Label>
+                        <Label Name="Credit5" Content="Timothy Western, Pradeep Soundararajan, Alexei Barantsev, Ajay Balamurugadas, Michel Kraaij" HorizontalAlignment="Center" FontSize="9"></Label>
+                        <Label Name="Credit7" Content="Europe Weekend Testers: Markus Gaertner, Vijay Kaikundri, Eusebiu Blindu" HorizontalAlignment="Center" FontSize="9"></Label>
+                        <Label Name="Credit8" Content="America Weekend Testers: Michael Larsen, Mohinder Khosla, Adam Yuret, Darren McMillan, Peter Schrijver" HorizontalAlignment="Center" FontSize="9"></Label>
+                        <!--
+                        Anna Lukin          -> Inspiration
+                        Moshe Eliahu        -> Beta tester
+                        Aviah Harush        -> Beta tester
+                        Jon Bach            -> Motivation
+                        Alex Kell           -> -report idea
+                        Ravit Dotan         -> Supreme tester
+                        Erik Petersen       -> Testing Volunteer
+                        James Bach          -> Spreading the word
+                        Bernie Berger       -> A lot of Feedback
+                        Nir Radian          -> Supreme Tester
+                        Markus Gaertner     -> Weekend Testers
+                        Felipe Knorr Kuhn   -> Feedback
+                        Peter Gillogley     -> Real User on real needs
+                        Fabricio Campos     -> Feedback and Linux suggestion
+                        Issi Hazan          -> Live testing session, spread the word
+                        Ray Oei             -> FLAWLESS VICTORY, so much feedback and use!
+                        Marc Goodwin        -> Feedback
+                        Kobi Halperin       -> Feedback
+                        Trevor Wolter       -> Blog post about RR!
+                        Michael Bolton      -> Spread the word
+                        Joe Harter          -> the Pairing Rapid Reporter idea
+                        Albert Gareev       -> http://automation-beyond.com/2010/11/16/wta01-testing-is-learning/
+                        Zeger Van Hese      -> http://testsidestory.wordpress.com/2010/11/19/exploring-rapid-reporter/
+                        John Stevenson      -> Feedback
+                        Carsten Feilberg    -> Mention on his takl
+                        Alex Rotaru         -> MacOS virtual machine feedback
+                        Ola Hylten          -> Screenshot crash on bad NVIDIA driver
+                        Timothy Western     -> Long feedback, and a crash
+                        Pradeep Soundararajan -> Long feedback and suggestions
+                        Alexei Barantsev    -> too much CPU bug
+                        Ajay Balamurugadas  -> Feedback
+                        Michel Kraaij       -> .NET3.5 to .NET3.0
+                        Markus Gaertner     -> Weekend Testers http://weekendtesting.com/archives/1452
+                        Vijay Kaikundri     -> Weekend Testers
+                        Eusebiu Blindu      -> Weekend Testers
+                        Michael Larsen      -> Weekend Testers http://weekendtesting.com/archives/1527 , http://weekendtesting.com/archives/1583
+                        Mohinder Khosla     -> Weekend Testers
+                        Adam Yuret          -> Weekend Testers
+                        Darren McMillan     -> Weekend Testers
+                        Peter Schrijver     -> Weekend Testers
+                        -->
+                    </StackPanel>
+                </Expander>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

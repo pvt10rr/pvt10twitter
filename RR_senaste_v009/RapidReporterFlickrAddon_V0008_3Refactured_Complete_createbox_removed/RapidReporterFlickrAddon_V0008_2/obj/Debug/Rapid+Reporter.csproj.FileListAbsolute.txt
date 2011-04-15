@@ -1,0 +1,459 @@
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\obj\Debug\AboutDlg.baml
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\obj\Debug\Help.baml
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\obj\Debug\RTFNote.baml
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\obj\Debug\SMWidget.baml
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\obj\Debug\AboutDlg.g.cs
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\obj\Debug\Help.g.cs
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\obj\Debug\RTFNote.g.cs
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\obj\Debug\SMWidget.g.cs
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\obj\Debug\App.g.cs
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\obj\Debug\RapidReporter.g.resources
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\bin\Debug\RapidReporter.exe.manifest
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\bin\Debug\RapidReporter.application
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\bin\Debug\RapidReporter.exe
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\bin\Debug\RapidReporter.pdb
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\AboutDlg.baml
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\Help.baml
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\RTFNote.baml
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\SMWidget.baml
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\AboutDlg.g.cs
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\Help.g.cs
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\RTFNote.g.cs
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\SMWidget.g.cs
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\App.g.cs
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\RapidReporter.g.resources
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\Rapid_Reporter.Properties.Resources.resources
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\RapidReporter.exe.manifest
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\RapidReporter.application
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\RapidReporter.exe
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporter\RapidReporter\Rapid Reporter\obj\Debug\RapidReporter.pdb
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\RapidReporter.exe
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\RapidReporter.pdb
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\bin\Debug\RapidReporter.exe.manifest
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\bin\Debug\RapidReporter.application
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\bin\Debug\RapidReporter.exe
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\bin\Debug\RapidReporter.pdb
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\AboutDlg.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\Help.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\RTFNote.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\SMWidget.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\AboutDlg.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\Help.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\RTFNote.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\SMWidget.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\App.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\RapidReporter.g.resources
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\Rapid_Reporter.Properties.Resources.resources
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\ResGen.read.1.tlog
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\ResGen.write.1.tlog
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\RapidReporter.exe.manifest
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\obj\Debug\RapidReporter.application
+C:\Users\hugo\projects\Visual Studio 2010\Projects\Rapid Reporter\bin\Debug\FlickrNet.dll
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.exe
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.pdb
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.exe.manifest
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.application
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.exe
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.pdb
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\ResolveAssemblyReference.cache
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\AboutDlg.baml
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\Help.baml
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\RTFNote.baml
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\SMWidget.baml
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\AboutDlg.g.cs
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\Help.g.cs
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\RTFNote.g.cs
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\SMWidget.g.cs
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\App.g.cs
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.g.resources
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\Rapid_Reporter.Properties.Resources.resources
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\ResGen.read.1.tlog
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\ResGen.write.1.tlog
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.exe.manifest
+C:\sharpdevelopsolutions\My Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.application
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.exe
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.pdb
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.exe.manifest
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.application
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.exe
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.pdb
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\AboutDlg.baml
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\Help.baml
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\RTFNote.baml
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\SMWidget.baml
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\AboutDlg.g.cs
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\Help.g.cs
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\RTFNote.g.cs
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\SMWidget.g.cs
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\App.g.cs
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.g.resources
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\Rapid_Reporter.Properties.Resources.resources
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\ResGen.read.1.tlog
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\ResGen.write.1.tlog
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.exe.manifest
+C:\Users\KYH User\Dropbox\TeamVG\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.application
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.exe
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.pdb
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.exe.manifest
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.application
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.exe
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.pdb
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\AboutDlg.baml
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\Help.baml
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\RTFNote.baml
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\SMWidget.baml
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\AboutDlg.g.cs
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\Help.g.cs
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\RTFNote.g.cs
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\SMWidget.g.cs
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\App.g.cs
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.g.resources
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\Rapid_Reporter.Properties.Resources.resources
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\ResGen.read.1.tlog
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\ResGen.write.1.tlog
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.exe.manifest
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.application
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.exe
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.pdb
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\AboutDlg.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\Help.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\RTFNote.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\SMWidget.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\AboutDlg.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\Help.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\RTFNote.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\SMWidget.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\App.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.g.resources
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\Rapid_Reporter.Properties.Resources.resources
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\ResGen.read.1.tlog
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\ResGen.write.1.tlog
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.exe.manifest
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.application
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.exe
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.pdb
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.exe.manifest
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0004\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.application
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.exe
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.pdb
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.exe.manifest
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.application
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.exe
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.pdb
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\AboutDlg.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\Help.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\RTFNote.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\SMWidget.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\AboutDlg.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\Help.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\RTFNote.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\SMWidget.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\App.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.g.resources
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\Rapid_Reporter.Properties.Resources.resources
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\ResGen.read.1.tlog
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\ResGen.write.1.tlog
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.exe.manifest
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.application
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.exe
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.pdb
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.exe.manifest
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.application
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.exe
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\bin\Debug\RapidReporter.pdb
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\AboutDlg.baml
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\Help.baml
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\RTFNote.baml
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\SMWidget.baml
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\AboutDlg.g.cs
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\Help.g.cs
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\RTFNote.g.cs
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\SMWidget.g.cs
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\App.g.cs
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.g.resources
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\Rapid_Reporter.Properties.Resources.resources
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.exe.manifest
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0005\RapidReporterFlickrAddon_V0001\obj\Debug\RapidReporter.application
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.exe
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.pdb
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.exe.manifest
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.application
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.exe
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.pdb
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\AboutDlg.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\Help.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\RTFNote.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\SMWidget.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\AboutDlg.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\Help.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\RTFNote.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\SMWidget.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\App.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.g.resources
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\Rapid_Reporter.Properties.Resources.resources
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\ResGen.read.1.tlog
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\ResGen.write.1.tlog
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.exe.manifest
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.application
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.exe
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.pdb
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.exe.manifest
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.application
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.exe
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.pdb
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\AboutDlg.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\Help.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\RTFNote.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\SMWidget.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\AboutDlg.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\Help.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\RTFNote.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\SMWidget.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\App.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.g.resources
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\Rapid_Reporter.Properties.Resources.resources
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\ResGen.read.1.tlog
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\ResGen.write.1.tlog
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.exe.manifest
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.1\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.application
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.exe
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.pdb
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\AboutDlg.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\Help.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\RTFNote.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\SMWidget.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\AboutDlg.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\Help.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\RTFNote.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\SMWidget.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\App.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.g.resources
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\Rapid_Reporter.Properties.Resources.resources
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\ResGen.read.1.tlog
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\ResGen.write.1.tlog
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.exe.manifest
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.application
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.exe
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.pdb
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.exe.manifest
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0006.2\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.application
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.pdb
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.exe.manifest
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.application
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.exe
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.pdb
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\AboutDlg.baml
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\Help.baml
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\RTFNote.baml
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\SMWidget.baml
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\AboutDlg.g.cs
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\Help.g.cs
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\RTFNote.g.cs
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\SMWidget.g.cs
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\App.g.cs
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.g.resources
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\Rapid_Reporter.Properties.Resources.resources
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.exe.manifest
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.application
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0007\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.exe
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.exe
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.pdb
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\AboutDlg.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\Help.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\RTFNote.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\SMWidget.baml
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\AboutDlg.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\Help.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\RTFNote.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\SMWidget.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\App.g.cs
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.g.resources
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\Rapid_Reporter.Properties.Resources.resources
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\ResGen.read.1.tlog
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\ResGen.write.1.tlog
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.exe.manifest
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.application
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.exe
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\bin\Debug\RapidReporter.pdb
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.exe.manifest
+C:\Users\hugo\projects\Visual Studio 2010\Projects\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0008\RapidReporterFlickrAddon_V0006\obj\Debug\RapidReporter.application
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.exe
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.pdb
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.exe.manifest
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.application
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.exe
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.pdb
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\AboutDlg.baml
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\Help.baml
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\RTFNote.baml
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\SMWidget.baml
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\AboutDlg.g.cs
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\Help.g.cs
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\RTFNote.g.cs
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\SMWidget.g.cs
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\App.g.cs
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.g.resources
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\Rapid_Reporter.Properties.Resources.resources
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\ResGen.read.1.tlog
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\ResGen.write.1.tlog
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.exe.manifest
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.application
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\bin\Debug\nunit.core.dll
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\bin\Debug\nunit.framework.dll
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\RapidReporterFlickrAddon_V0008_2\bin\Debug\nunit.framework.xml
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.exe
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.pdb
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.exe.manifest
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.application
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.exe
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.pdb
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\bin\Debug\nunit.core.dll
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\bin\Debug\nunit.framework.dll
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\bin\Debug\nunit.framework.xml
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\AboutDlg.baml
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\Help.baml
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\RTFNote.baml
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\SMWidget.baml
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\AboutDlg.g.cs
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\Help.g.cs
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\RTFNote.g.cs
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\SMWidget.g.cs
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\App.g.cs
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.g.resources
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\Rapid_Reporter.Properties.Resources.resources
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\ResGen.read.1.tlog
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\ResGen.write.1.tlog
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.exe.manifest
+C:\Users\Fredrik\Desktop\KYHUtbildning\Projektgrupp\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.application
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.exe
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.pdb
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.exe.manifest
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.application
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.exe
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.pdb
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\bin\Debug\nunit.framework.dll
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\bin\Debug\nunit.framework.xml
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\AboutDlg.baml
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\Help.baml
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\RTFNote.baml
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\SMWidget.baml
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\AboutDlg.g.cs
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\Help.g.cs
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\RTFNote.g.cs
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\SMWidget.g.cs
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\App.g.cs
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.g.resources
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\Rapid_Reporter.Properties.Resources.resources
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\ResGen.read.1.tlog
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\ResGen.write.1.tlog
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.exe.manifest
+C:\Users\KYH User\Desktop\RapidReporterFlickrAddon_V0008_2Refactured_Complete\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.application
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.exe.manifest
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.application
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.exe
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.pdb
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\bin\Debug\nunit.core.dll
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\bin\Debug\nunit.core.interfaces.dll
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\bin\Debug\nunit.framework.dll
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\bin\Debug\nunit.framework.xml
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\AboutDlg.baml
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\Help.baml
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\RTFNote.baml
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\SMWidget.baml
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\AboutDlg.g.cs
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\Help.g.cs
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\RTFNote.g.cs
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\SMWidget.g.cs
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\App.g.cs
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.g.resources
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\Rapid_Reporter.Properties.Resources.resources
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\ResGen.read.1.tlog
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\ResGen.write.1.tlog
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.exe.manifest
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.application
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.exe
+C:\Users\hugo\projects\csharp4\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.pdb
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.exe.manifest
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.application
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.exe
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\bin\Debug\RapidReporter.pdb
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\bin\Debug\nunit.core.dll
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\bin\Debug\nunit.core.interfaces.dll
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\bin\Debug\nunit.framework.dll
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\bin\Debug\nunit.framework.xml
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\AboutDlg.baml
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\Help.baml
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\RTFNote.baml
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\SMWidget.baml
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\AboutDlg.g.cs
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\Help.g.cs
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\RTFNote.g.cs
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\SMWidget.g.cs
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\App.g.cs
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter_MarkupCompile.cache
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.g.resources
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\Rapid_Reporter.Properties.Resources.resources
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\ResGen.read.1.tlog
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\ResGen.write.1.tlog
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.exe.manifest
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.application
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.exe
+C:\Users\hugo\projects\csharp\RR senaste\RapidReporterFlickrAddon_V0008_3Refactured_Complete_createbox_removed\RapidReporterFlickrAddon_V0008_2\obj\Debug\RapidReporter.pdb

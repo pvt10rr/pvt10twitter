@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3960fec7-5065-4892-806d-2a030571c2ae" name="Fredrik@NAGIKSBAGERI 2011-04-08 12:00:57" runUser="Nagiksbageri\Fredrik" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="7c392b08-ea84-4a2d-bfc1-1cae2dbc4634">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Fredrik_NAGIKSBAGERI 2011-04-08 12_00_57">
+      <DeploymentItem filename="C:\Program Files (x86)\NUnit 2.5.8\bin\net-2.0\framework\nunit.framework.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-04-08T12:00:57.1942749+02:00" queuing="2011-04-08T12:01:00.4704623+02:00" start="2011-04-08T12:01:00.8194822+02:00" finish="2011-04-08T12:01:05.0957268+02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\fredrik\desktop\kyhutbildning\projektgrupp\flickraddontest\flickraddontest\flickraddontest\bin\debug\flickraddontest.dll" id="4a179a76-5512-3548-155d-805c4ee6d1ae">
+      <Execution id="42b6e311-ff8e-4c0a-9862-dcdd2e9aa9c3" />
+      <TestMethod codeBase="C:/Users/Fredrik/Desktop/KYHUtbildning/Projektgrupp/FlickraddonTest/FlickraddonTest/FlickraddonTest/bin/Debug/FlickraddonTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FlickraddonTest.UnitTest1, FlickraddonTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4a179a76-5512-3548-155d-805c4ee6d1ae" executionId="42b6e311-ff8e-4c0a-9862-dcdd2e9aa9c3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="42b6e311-ff8e-4c0a-9862-dcdd2e9aa9c3" testId="4a179a76-5512-3548-155d-805c4ee6d1ae" testName="TestMethod1" computerName="NAGIKSBAGERI" duration="00:00:00.0147525" startTime="2011-04-08T12:01:01.8325402+02:00" endTime="2011-04-08T12:01:04.6126992+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="42b6e311-ff8e-4c0a-9862-dcdd2e9aa9c3">
+    </UnitTestResult>
+  </Results>
+</TestRun>
