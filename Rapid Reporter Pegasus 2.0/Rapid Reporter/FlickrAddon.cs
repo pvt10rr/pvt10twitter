@@ -92,7 +92,7 @@ namespace Rapid_Reporter
  
         }
 
-        /*public string Upload(string pFile, string pName, string pDesc, string pTags)
+        public string Upload(string pFile, string pName, string pDesc, string pTags)
         {
 
             if (SMWidget.ToggleUpload2 == true)
@@ -117,7 +117,7 @@ namespace Rapid_Reporter
                 }
             }
             return "";
-        }*/
+        }
 
         public bool IsAuthenticated()
         {

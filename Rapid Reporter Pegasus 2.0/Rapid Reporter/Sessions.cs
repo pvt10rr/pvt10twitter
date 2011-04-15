@@ -17,6 +17,20 @@ namespace Rapid_Reporter
     public class Session // Changed to 'public'.
     {
 
+        // Flickrshit
+        public StreamWriter m_fileTags;
+        private string m_strTags = "";
+
+        public string GetTags()
+        {
+            return m_strTags;
+        }
+
+        public string GetCurrentSessionFile()
+        {
+            return sessionFile;
+        }
+
         /** Variables **/
         /***************/
 

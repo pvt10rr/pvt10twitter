@@ -6,6 +6,7 @@ using System;
 using System.Collections;
 using System.Diagnostics;
 using System.Drawing;
+using System.Drawing.Drawing2D;
 using System.Drawing.Imaging;
 using System.IO;
 using System.Windows;
@@ -13,6 +14,7 @@ using System.Windows.Input;
 using System.Windows.Media.Animation;
 using System.Windows.Media.Effects;
 using System.Windows.Media.Imaging;
+using FlickrNet;
 
 // Scope of the application.
 // In this file we deal with the main 'Widget':
@@ -27,6 +29,11 @@ namespace Rapid_Reporter
     // Controls the main Widget
     public partial class SMWidget : Window
     {
+        // Flickr
+        FlickrAddon m_flickr = new FlickrAddon();
+        bool m_flickrLoggedIn = false;
+        public static bool ToggleUpload2 = false;
+
         // CharCounter variables
         public static string hardcodedText;
         public static int preLength;
@@ -46,6 +53,14 @@ namespace Rapid_Reporter
             charCounter.Text = countDownNrOfChar.ToString();
         }
 
+        private void ChangeAccount_Click(object sender, RoutedEventArgs e) // #ADDED CODE#________________---------------CHANGE ACCOUNT---------------------_________________________
+        {
+            Logger.record("[ChangeAccount_Click]: Change Account", "SMWidget", "info");
+            // string url = flickr.AuthCalcWebUrl(AuthLevel.Write);
+            m_flickr.LogOut();
+            FlickrInlogg.Text = "Account: offline";
+        }
+        
         // What happens when you press the Twitter button.
         private void Twitter_Click(object sender, RoutedEventArgs e)
         {
@@ -80,6 +95,20 @@ namespace Rapid_Reporter
 
         private void Flickr_Click(object sender, RoutedEventArgs e)
         {
+            Logger.record("[ToggleUpload_Click]: ToggleUpload", "SMWidget", "info");
+            SMWidget.ToggleUpload2 = !SMWidget.ToggleUpload2;
+            //     bool edit = false;
+            //     if (System.Windows.Forms.Control.ModifierKeys == System.Windows.Forms.Keys.Shift) edit = true;
+            //      if (edit) this.WindowState = System.Windows.WindowState.Minimized;          // <--\
+
+            if (SMWidget.ToggleUpload2 == true)
+            {
+
+                FlickrIcon.Source = new BitmapImage(new Uri("iconflickr.png", UriKind.Relative));
+            }
+            else
+                FlickrIcon.Source = new BitmapImage(new Uri("iconflickr_dis.png", UriKind.Relative));
+                // ToggleUploadIcon.IsEnabled = false;
         }
 
         // Session Notes variables
@@ -128,6 +157,20 @@ namespace Rapid_Reporter
         // Default constructor, everything is empty/default values
         public SMWidget()
         {
+            // Flickr
+            MessageBoxResult result = System.Windows.MessageBox.Show("Do you want to login to Flickr?", "Flickr Login", MessageBoxButton.YesNo);
+            if (result == MessageBoxResult.Yes)
+            {
+
+                m_flickr.Login();
+                m_flickrLoggedIn = true;
+            }
+            else
+            {
+                m_flickrLoggedIn = false;
+            }
+
+
             Logger.record("[SMWidget]: App constructor. Initializing.", "SMWidget", "info");
             InitializeComponent();
             rtf.InitializeComponent();
@@ -379,12 +422,28 @@ namespace Rapid_Reporter
                     NoteType.Text = currentSession.noteTypes[currentNoteType] + ":";
                     prevType.Text = "↓ " + currentSession.noteTypes[prevNoteType] + ":";
                     nextType.Text = "↑ " + currentSession.noteTypes[nextNoteType] + ":";
+
+
+                    // Flickr
+                    if (m_flickrLoggedIn)
+                    {
+                        FlickrInlogg.Text = "Account: " + m_flickr.GetCurrentUser(); //currentSession.noteTypes[ReporterNoteName] 
+                    }
+                    else
+                    {
+                        FlickrInlogg.Text = "Offline";
+                    }
+
+
                     currentSession.StartSession(); ProgressGo(90); t90.IsChecked = true;
-                    ScreenShot.IsEnabled = true; RTFNoteBtn.IsEnabled = true;
+                    ScreenShot.IsEnabled = true; RTFNoteBtn.IsEnabled = true; FlickrIcon.IsEnabled = true;
                     // Change the icon of the image of the buttons, to NOT appear disabled.
                     ScreenShotIcon.Source = new BitmapImage(new Uri("iconshot.png", UriKind.Relative));
                     RTFNoteBtnIcon.Source = new BitmapImage(new Uri("iconnotes.png", UriKind.Relative));
                     TimerMenu.IsEnabled = true;
+
+                    ChangeAccount.IsEnabled = true; // Flickr
+
                     OpenFolder.Header = "Open working folder...";
                     Logger.record("\t\t[StateMove]: Session Stage moving -> Notes", "SMWidget", "info");
                     break;
@@ -565,8 +624,49 @@ namespace Rapid_Reporter
                 exDrRetry = false;
                 try
                 {
+                    // Flickr
+                    string strReportFileName = currentSession.GetCurrentSessionFile();
+
+                    Graphics graphicImage = Graphics.FromImage(bitmap);
+                    graphicImage.SmoothingMode = SmoothingMode.AntiAlias;
+
+                    StringFormat format = new System.Drawing.StringFormat(StringFormatFlags.DirectionRightToLeft);
+
+                    graphicImage.DrawString(strReportFileName, new Font("Arial", 14, System.Drawing.FontStyle.Bold),
+                        System.Drawing.Brushes.Red, new System.Drawing.Point(50, 50));
+
+
+
+                    // Legacy
                     bitmap.Save(currentSession.workingDir + screenshotName, ImageFormat.Jpeg);
                     AutoSaveScrenshot(screenshotName);
+
+
+
+                    // Flickr
+                    string strFileTag = "#Session File: " + strReportFileName;
+                    string URL = "";
+
+                    if (ToggleUpload2)
+                    {
+                        if (m_flickrLoggedIn)
+                        {
+
+                            URL = m_flickr.GetUrl(m_flickr.Upload(screenshotName, "", "", currentSession.GetTags() + strFileTag));
+                            currentSession.UpdateNotes("WebUrl: ", URL);
+
+                            FlickrInlogg.Text = "Account: " + m_flickr.GetCurrentUser(); //currentSession.noteTypes[ReporterNoteName] 
+                        }
+                        else
+                        {
+                            m_flickr.Login();
+                            FlickrInlogg.Text = "Account: " + m_flickr.GetCurrentUser();
+                            URL = m_flickr.GetUrl(m_flickr.Upload(screenshotName, "", "", currentSession.GetTags() + strFileTag));
+                            currentSession.UpdateNotes("WebUrl: ", URL);
+                            m_flickrLoggedIn = true;
+                        }
+                    }
+                    
                 }
                 catch (Exception ex)
                 {
